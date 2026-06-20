@@ -87,11 +87,22 @@ export default function Hero() {
 
           <motion.div
             variants={stagger.item}
-            className="flex justify-center lg:justify-start mb-6"
+            className="flex justify-center lg:justify-start mb-4"
           >
             <span className="glass px-5 py-2 rounded-full text-slate-300 font-space text-base tracking-wide border border-white/10">
               {t('role')}
             </span>
+          </motion.div>
+
+          <motion.div
+            variants={stagger.item}
+            className="flex items-center justify-center lg:justify-start gap-2 mb-6"
+          >
+            <span className="relative flex h-2 w-2">
+              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75" />
+              <span className="relative inline-flex h-2 w-2 rounded-full bg-emerald-500" />
+            </span>
+            <span className="font-space text-xs text-slate-400 tracking-wide">{t('available')}</span>
           </motion.div>
 
           <motion.p

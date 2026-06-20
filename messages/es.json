@@ -9,6 +9,7 @@
   "hero": {
     "greeting": "Hola, soy",
     "role": "Full Stack Developer & AI Engineer",
+    "available": "Disponible para nuevas oportunidades",
     "description": "Construyo software real para usuarios reales. Apps móviles, webs full stack e inteligencia artificial aplicada.",
     "cta": "Ver proyectos",
     "ctaSecondary": "Contactar"
@@ -47,7 +48,14 @@
     "description": "Estoy buscando nuevas oportunidades. Si tienes un proyecto interesante o una oferta, escríbeme.",
     "email": "Enviar email",
     "linkedin": "LinkedIn",
-    "downloadCV": "Descargar CV"
+    "downloadCV": "Descargar CV",
+    "formName": "Tu nombre",
+    "formEmail": "Tu email",
+    "formMessage": "Tu mensaje",
+    "formSend": "Enviar mensaje",
+    "formSending": "Enviando...",
+    "formSuccess": "¡Mensaje enviado! Te responderé pronto.",
+    "formError": "Algo salió mal. Prueba por email directamente."
   },
   "footer": {
     "rights": "Diseñado y desarrollado por Adrián Cabedo Cañós"

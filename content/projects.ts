@@ -226,7 +226,7 @@ export const projects: Project[] = [
     demo: 'https://mynextcorner.com',
     stack: ['Next.js 15', 'TypeScript', 'React 19', 'Supabase', 'Tailwind CSS 4', 'next-intl'],
     tags: ['Web', 'Full Stack', 'Production'],
-    color: '#F59E0B',
+    color: '#06B6D4',
     es: {
       title: 'NextCorner',
       tagline: 'Blog en producción con más de 100 artículos y 4 idiomas',

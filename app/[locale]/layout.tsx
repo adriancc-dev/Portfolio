@@ -34,8 +34,10 @@ export default async function LocaleLayout({ children, params: { locale } }: Pro
 
   const messages = await getMessages();
 
+  const htmlLang = locale === 'val' ? 'ca' : locale;
+
   return (
-    <html lang={locale}>
+    <html lang={htmlLang}>
       <body>
         <NextIntlClientProvider messages={messages}>
           {children}

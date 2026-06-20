@@ -17,7 +17,7 @@ export default function Footer() {
             GitHub
           </a>
           <a
-            href="https://linkedin.com/in/adrián-cabedo-canós"
+            href="https://www.linkedin.com/in/adrian-cabedo-canos/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-slate-700 hover:text-amber-400 transition-colors font-space text-xs tracking-wide"

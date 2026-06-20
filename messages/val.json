@@ -9,6 +9,7 @@
   "hero": {
     "greeting": "Hola, soc",
     "role": "Full Stack Developer & AI Engineer",
+    "available": "Disponible per a noves oportunitats",
     "description": "Construïsc programari real per a usuaris reals. Apps mòbils, webs full stack i intel·ligència artificial aplicada.",
     "cta": "Veure projectes",
     "ctaSecondary": "Contactar"
@@ -47,7 +48,14 @@
     "description": "Estic buscant noves oportunitats. Si tens un projecte interessant o una oferta, escriu-me.",
     "email": "Enviar email",
     "linkedin": "LinkedIn",
-    "downloadCV": "Descarregar CV"
+    "downloadCV": "Descarregar CV",
+    "formName": "El teu nom",
+    "formEmail": "El teu email",
+    "formMessage": "El teu missatge",
+    "formSend": "Enviar missatge",
+    "formSending": "Enviant...",
+    "formSuccess": "Missatge enviat! Et respondré prompte.",
+    "formError": "Alguna cosa ha fallat. Prova per email directament."
   },
   "footer": {
     "rights": "Dissenyat i desenvolupat per Adrián Cabedo Cañós"

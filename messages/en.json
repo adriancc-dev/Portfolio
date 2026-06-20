@@ -9,6 +9,7 @@
   "hero": {
     "greeting": "Hi, I'm",
     "role": "Full Stack Developer & AI Engineer",
+    "available": "Available for new opportunities",
     "description": "I build real software for real users. Mobile apps, full stack web, and applied artificial intelligence.",
     "cta": "View projects",
     "ctaSecondary": "Get in touch"
@@ -47,7 +48,14 @@
     "description": "I'm looking for new opportunities. If you have an interesting project or an offer, reach out.",
     "email": "Send email",
     "linkedin": "LinkedIn",
-    "downloadCV": "Download CV"
+    "downloadCV": "Download CV",
+    "formName": "Your name",
+    "formEmail": "Your email",
+    "formMessage": "Your message",
+    "formSend": "Send message",
+    "formSending": "Sending...",
+    "formSuccess": "Message sent! I'll get back to you soon.",
+    "formError": "Something went wrong. Try emailing me directly."
   },
   "footer": {
     "rights": "Designed and developed by Adrián Cabedo Cañós"

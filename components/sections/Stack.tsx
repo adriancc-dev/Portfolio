@@ -56,12 +56,11 @@ export default function Stack() {
         <AnimateIn>
           <p className="section-label mb-4">{t('title')}</p>
           <h2
-            className="font-clash gradient-text mb-4"
+            className="font-clash gradient-text mb-16"
             style={{ fontSize: 'clamp(2.5rem, 6vw, 4rem)' }}
           >
-            {t('title')}
+            {t('subtitle')}
           </h2>
-          <p className="text-slate-600 font-space text-sm mb-16">{t('subtitle')}</p>
         </AnimateIn>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
