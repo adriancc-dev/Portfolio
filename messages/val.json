@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "about": "Sobre mi",
+    "projects": "Projectes",
+    "stack": "Stack",
+    "contact": "Contacte",
+    "downloadCV": "Descarregar CV"
+  },
+  "hero": {
+    "greeting": "Hola, soc",
+    "role": "Full Stack Developer & AI Engineer",
+    "description": "Construïsc programari real per a usuaris reals. Apps mòbils, webs full stack i intel·ligència artificial aplicada.",
+    "cta": "Veure projectes",
+    "ctaSecondary": "Contactar"
+  },
+  "about": {
+    "title": "Sobre mi",
+    "subtitle": "Codi real. Usuaris reals.",
+    "p1": "Soc l'Adrián, desenvolupador Full Stack i Enginyer d'IA de Castelló. Vaig començar construint apps mòbils amb Flutter i Java, vaig continuar amb el desenvolupament web durant les meues pràctiques en un ajuntament real, i després em vaig endinsar en el món de la IA i el Big Data.",
+    "p2": "No em quede en el tutorial. Construïsc coses que funcionen i que usa gent real: un bot de Discord amb més de 1.000 usuaris actius, un blog multilingüe en producció, una plataforma municipal desplegada per a ús diari.",
+    "p3": "El que em mou és el repte de convertir problemes complexos en programari net i funcional. Busque un equip on continuar construint, aprenent i lliurant.",
+    "stat1Label": "Projectes",
+    "stat2Label": "Usuaris reals",
+    "stat3Label": "Articles publicats",
+    "stat4Label": "Idiomes"
+  },
+  "projects": {
+    "title": "Projectes",
+    "subtitle": "Coses que vaig construir i que funcionen de veritat",
+    "viewDetails": "Veure detalls",
+    "viewCode": "Veure codi",
+    "viewDemo": "Veure demo"
+  },
+  "stack": {
+    "title": "Stack",
+    "subtitle": "Tecnologies amb les quals treballe",
+    "languages": "Llenguatges",
+    "backend": "Backend",
+    "frontend": "Frontend",
+    "databases": "Bases de dades",
+    "tools": "Eines",
+    "ai": "IA & Data"
+  },
+  "contact": {
+    "title": "Contacte",
+    "subtitle": "Parlem?",
+    "description": "Estic buscant noves oportunitats. Si tens un projecte interessant o una oferta, escriu-me.",
+    "email": "Enviar email",
+    "linkedin": "LinkedIn",
+    "downloadCV": "Descarregar CV"
+  },
+  "footer": {
+    "rights": "Dissenyat i desenvolupat per Adrián Cabedo Cañós"
+  },
+  "projectDetail": {
+    "problem": "El problema",
+    "decisions": "Decisions tècniques",
+    "challenges": "Dificultats",
+    "outcome": "Resultat",
+    "stack": "Stack utilitzat",
+    "backToProjects": "Tornar a projectes",
+    "viewCode": "Veure codi",
+    "viewDemo": "Veure demo",
+    "prevProject": "Projecte anterior",
+    "nextProject": "Projecte següent"
+  }
+}

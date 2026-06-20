@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "stack": "Stack",
+    "contact": "Contacto",
+    "downloadCV": "Descargar CV"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "role": "Full Stack Developer & AI Engineer",
+    "description": "Construyo software real para usuarios reales. Apps móviles, webs full stack e inteligencia artificial aplicada.",
+    "cta": "Ver proyectos",
+    "ctaSecondary": "Contactar"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "subtitle": "Código real. Usuarios reales.",
+    "p1": "Soy Adrián, desarrollador Full Stack e Ingeniero de IA de Castellón. Empecé construyendo apps móviles con Flutter y Java, continué con el desarrollo web durante mis prácticas en un ayuntamiento real, y después me adentré en el mundo de la IA y el Big Data.",
+    "p2": "No me quedo en el tutorial. Construyo cosas que funcionan y que usa gente real: un bot de Discord con más de 1.000 usuarios activos, un blog multilingüe en producción, una plataforma municipal desplegada para uso diario.",
+    "p3": "Lo que me mueve es el reto de convertir problemas complejos en software limpio y funcional. Busco un equipo donde seguir construyendo, aprendiendo y entregando.",
+    "stat1Label": "Proyectos",
+    "stat2Label": "Usuarios reales",
+    "stat3Label": "Artículos publicados",
+    "stat4Label": "Idiomas"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "subtitle": "Cosas que construí y que funcionan de verdad",
+    "viewDetails": "Ver detalles",
+    "viewCode": "Ver código",
+    "viewDemo": "Ver demo"
+  },
+  "stack": {
+    "title": "Stack",
+    "subtitle": "Tecnologías con las que trabajo",
+    "languages": "Lenguajes",
+    "backend": "Backend",
+    "frontend": "Frontend",
+    "databases": "Bases de datos",
+    "tools": "Herramientas",
+    "ai": "IA & Data"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¿Hablamos?",
+    "description": "Estoy buscando nuevas oportunidades. Si tienes un proyecto interesante o una oferta, escríbeme.",
+    "email": "Enviar email",
+    "linkedin": "LinkedIn",
+    "downloadCV": "Descargar CV"
+  },
+  "footer": {
+    "rights": "Diseñado y desarrollado por Adrián Cabedo Cañós"
+  },
+  "projectDetail": {
+    "problem": "El problema",
+    "decisions": "Decisiones técnicas",
+    "challenges": "Dificultades",
+    "outcome": "Resultado",
+    "stack": "Stack utilizado",
+    "backToProjects": "Volver a proyectos",
+    "viewCode": "Ver código",
+    "viewDemo": "Ver demo",
+    "prevProject": "Proyecto anterior",
+    "nextProject": "Siguiente proyecto"
+  }
+}

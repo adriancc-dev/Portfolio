@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "stack": "Stack",
+    "contact": "Contact",
+    "downloadCV": "Download CV"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "role": "Full Stack Developer & AI Engineer",
+    "description": "I build real software for real users. Mobile apps, full stack web, and applied artificial intelligence.",
+    "cta": "View projects",
+    "ctaSecondary": "Get in touch"
+  },
+  "about": {
+    "title": "About me",
+    "subtitle": "Real code. Real users.",
+    "p1": "I'm Adrián, a Full Stack Developer & AI Engineer from Castellón, Spain. I started out building mobile apps with Flutter and Java, moved into web development during my internship at a real municipality, and then dove deep into AI and Big Data.",
+    "p2": "I don't stop at tutorials. I build things that actually work and get used by real people: a Discord bot with 1,000+ active users, a multilingual blog in production, a municipal platform deployed for daily use.",
+    "p3": "What drives me is turning complex problems into clean, working software. I'm looking for a team where I can keep building, learning, and shipping.",
+    "stat1Label": "Projects",
+    "stat2Label": "Real users",
+    "stat3Label": "Articles published",
+    "stat4Label": "Languages"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Things I built that actually work",
+    "viewDetails": "View details",
+    "viewCode": "View code",
+    "viewDemo": "View demo"
+  },
+  "stack": {
+    "title": "Stack",
+    "subtitle": "Technologies I work with",
+    "languages": "Languages",
+    "backend": "Backend",
+    "frontend": "Frontend",
+    "databases": "Databases",
+    "tools": "Tools",
+    "ai": "AI & Data"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's talk",
+    "description": "I'm looking for new opportunities. If you have an interesting project or an offer, reach out.",
+    "email": "Send email",
+    "linkedin": "LinkedIn",
+    "downloadCV": "Download CV"
+  },
+  "footer": {
+    "rights": "Designed and developed by Adrián Cabedo Cañós"
+  },
+  "projectDetail": {
+    "problem": "The problem",
+    "decisions": "Technical decisions",
+    "challenges": "Challenges",
+    "outcome": "Outcome",
+    "stack": "Stack used",
+    "backToProjects": "Back to projects",
+    "viewCode": "View code",
+    "viewDemo": "View demo",
+    "prevProject": "Previous project",
+    "nextProject": "Next project"
+  }
+}
