@@ -91,12 +91,6 @@ export default function Contact() {
           </div>
         </AnimateIn>
 
-        <AnimateIn delay={0.2}>
-          <p className="text-slate-700 font-space text-xs tracking-[0.2em] mb-12">
-            +34 655 57 01 78
-          </p>
-        </AnimateIn>
-
         {/* Contact form */}
         <AnimateIn delay={0.3}>
           <form onSubmit={handleSubmit} className="glass-card p-8 text-left">
