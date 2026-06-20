@@ -1,7 +1,7 @@
 import { ImageResponse } from 'next/og';
 
 export const runtime = 'edge';
-export const alt = 'Adrián Cabedo Cañós | Full Stack Developer & AI Engineer';
+export const alt = 'Adrián Cabedo Canós | Full Stack Developer & AI Engineer';
 export const size = { width: 1200, height: 630 };
 export const contentType = 'image/png';
 
@@ -40,7 +40,7 @@ export default function Image() {
               lineHeight: 1.05,
             }}
           >
-            Adrián Cabedo{'\n'}Cañós
+            Adrián Cabedo{'\n'}Canós
           </span>
           <span
             style={{

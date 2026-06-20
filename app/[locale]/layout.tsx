@@ -6,19 +6,19 @@ import { routing } from '@/i18n/routing';
 import '../globals.css';
 
 export const metadata: Metadata = {
-  title: 'Adrián Cabedo Cañós | Full Stack Developer & AI Engineer',
+  title: 'Adrián Cabedo Canós | Full Stack Developer & AI Engineer',
   description:
-    'Portfolio of Adrián Cabedo Cañós — Full Stack Developer & AI Engineer from Spain. Mobile apps, full stack web, and applied AI.',
+    'Portfolio of Adrián Cabedo Canós — Full Stack Developer & AI Engineer from Spain. Mobile apps, full stack web, and applied AI.',
   openGraph: {
-    title: 'Adrián Cabedo Cañós | Full Stack Developer & AI Engineer',
-    description: 'Portfolio of Adrián Cabedo Cañós — Full Stack Developer & AI Engineer from Spain.',
+    title: 'Adrián Cabedo Canós | Full Stack Developer & AI Engineer',
+    description: 'Portfolio of Adrián Cabedo Canós — Full Stack Developer & AI Engineer from Spain.',
     type: 'website',
     images: [{ url: '/opengraph-image', width: 1200, height: 630 }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Adrián Cabedo Cañós | Full Stack Developer & AI Engineer',
-    description: 'Portfolio of Adrián Cabedo Cañós — Full Stack Developer & AI Engineer from Spain.',
+    title: 'Adrián Cabedo Canós | Full Stack Developer & AI Engineer',
+    description: 'Portfolio of Adrián Cabedo Canós — Full Stack Developer & AI Engineer from Spain.',
   },
 };
 

@@ -82,7 +82,7 @@ export default function Hero() {
             className="font-clash font-bold gradient-text leading-none mb-6"
             style={{ fontSize: 'clamp(3.5rem, 9vw, 6.5rem)' }}
           >
-            Adrián<br />Cabedo Cañós
+            Adrián<br />Cabedo Canós
           </motion.h1>
 
           <motion.div

@@ -83,7 +83,7 @@ function buildHtml(name: string, email: string, message: string) {
           <!-- Footer -->
           <tr>
             <td style="text-align:center;padding:28px 0 0;">
-              <p style="color:#1E293B;font-size:11px;margin:0;">Adrián Cabedo Cañós · Portfolio Contact Form</p>
+              <p style="color:#1E293B;font-size:11px;margin:0;">Adrián Cabedo Canós · Portfolio Contact Form</p>
             </td>
           </tr>
 
